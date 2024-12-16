@@ -1,10 +1,12 @@
 ### Project Title
 
+EPA range predictior for Electric Vehicles
+
 **Author**
 Usman Tariq
 
 #### Executive summary
-
+- [Executive Summary](https://github.com/usman-tariq77/Capstone-Project-24.1-Final-Report/blob/main/Executive%20summary.docx)
 
 
 #### Rationale
@@ -45,7 +47,7 @@ There are a few items that are next:
 
 #### Outline of project
 
-- [Link to notebook 1](https://github.com/usman-tariq77/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/EV.ipynb)
+- [Link to notebook](https://github.com/usman-tariq77/Capstone-Project-24.1-Final-Report/blob/main/EV.ipynb)
 
 
 ##### Contact and Further Information
