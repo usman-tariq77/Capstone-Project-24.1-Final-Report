@@ -1,0 +1,294 @@
+Model Year,Manufacturer,Model,Curb Weight,Drag Coeffiecents,Category,Fuel,Seats,Alternative Fuel Economy City,Alternative Fuel Economy Highway,Alternative Fuel Economy Combined,Conventional Fuel Economy City,Conventional Fuel Economy Highway,Conventional Fuel Economy Combined,PHEV Type,Total Range,All-Electric Range,Charging Rate Level 2 (kW),Charging Rate DC Fast (kW),Charging Speed Level 1 (miles per hour of charging),Charging Speed Level 2 (miles per hour of charging),Charging Speed DC Fast (miles per hour of charging),Battery Capacity (kWh),Transmission Type,Transmission Make,Engine Type,Engine Size,Engine Cylinder Count,Number of Passengers,Heavy-Duty Power System,Drivetrain,Notes
+2025,Audi,Q4 45 e-tron,4630,0.28,SUV,Electric,5,125,104,115,,,,,,288,11,150,3,31,282,81.6,,,e-motor,210 kW,,,,RWD,
+2025,Audi,Q6 e-tron quattro,5300,0.27,SUV,Electric,,,,95-99,,,,,,295-307,,,,,,100,,,e-motor,140 and 280 kW,,,,AWD,
+2025,Audi,Q8 e-tron quattro,5700,0.28,SUV,Electric,5,,,74-78,,,,,,254-272,9.6-19.2,170,3,44,315,114.3,,,e-motor,141 and 172 kW,,,,AWD,
+2025,Audi,Q8 Sportback e-tron quattro,5650,0.26,SUV,Electric,5,,,74-78,,,,,,254-272,9.6-19.2,170,3,44,315,114.3,,,e-motor,141 and 172 kW,,,,AWD,
+2025,Audi,SQ6 e-tron,5400,0.27,SUV,Electric,,96,82,89,,,,,,275,,,,,,100,,,e-motor,140 kW (x2),,,,AWD,
+2025,Audi,SQ8 e-tron,5800,0.28,SUV,Electric,,,,60-70,,,,,,208-242,,,,,,114.3,,,e-motor,138 and 157 kW,,,,AWD,"Includes models with 20"", 21"", and 22"" wheels"
+2025,Audi,SQ8 Sportback e-tron,5750,0.26,SUV,Electric,,,,60-70,,,,,,208-242,,,,,,114.3,,,e-motor,138 and 157 kW,,,,AWD,"Includes models with 20"", 21"", and 22"" wheels"
+2025,BMW,i4 eDrive35 Gran Coupe,4680,0.24,Sedan/Wagon,Electric,,,,106-118,,,,,,244-266,11,195,4,33,463,84.2,,,e-motor,250 kW,,,,RWD,"Includes models with 18 and 19"" wheels"
+2025,BMW,i4 eDrive40 Gran Coupe,4680,0.24,Sedan/Wagon,Electric,5,,,104-112,,,,,,295-318,11,195,4,33,463,84.2,,,e-motor,250 kW,,,,RWD,"Includes models with 18"" and 19"" wheels"
+2025,BMW,i4 M50 Gran Coupe,5018,0.25,Sedan/Wagon,Electric,5,,,80-94,,,,,,227-267,11,196,4,33,463,105.7,,,e-motor,190 and 230 kW ,,,,4WD,"Includes models with 19"" and 20"" wheels"
+2025,BMW,i4 xDrive40 Gran Coupe,4850,0.25,Sedan/Wagon,Electric,5,,,94-101,,,,,,268-287,11,195,4,33,463,105.7,,,e-motor,190 and 230 kW ,,,,AWD,"Includes models with 18"" and 19"" wheels"
+2025,BMW,i5 eDrive40 Sedan,4850,0.23,Sedan/Wagon,Electric,,,,96-105,,,,,,271-295,11,195,4,33,463,84,,,e-motor,250 kW,,,,RWD,"Includes models with 19"", 20"", and 21"" wheels"
+2025,BMW,i5 M60 xDrive Sedan,5300,0.23,Sedan/Wagon,Electric,5,,,84-90,,,,,,239-253,11,195,4,33,463,105.6,,,e-motor,190 and 230 kW ,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2025,BMW,i5 xDrive40 Sedan,5000,0.23,Sedan/Wagon,Electric,5,,,87-93,,,,,,248-266,11,195,4,33,463,105.6,,,e-motor,192 and 250 kW,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2025,BMW,i7 eDrive50 Sedan,5820,0.24,Sedan/Wagon,Electric,5,,,85-88,,,,,,301-314,11,195,4,33,412,105.6,,,e-motor,335 kW,,,,RWD,"Includes models with 19"", 20"", and 21"" wheels"
+2025,BMW,i7 M70 xDrive Sedan,5950,0.24,Sedan/Wagon,Electric,5,,,75-79,,,,,,268-285,11,195,4,33,412,111.8,,,e-motor,190 and 360 kW,,,,AWD,"Includes models with 20"" and 21"" wheels"
+2025,BMW,i7 xDrive60 Sedan,5950,0.24,Sedan/Wagon,Electric,5,,,83-88,,,,,,296-311,11,195,4,33,412,105.6,,,e-motor,190 and 230 kW,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2025,BMW,iX M60,5700,0.25,SUV,Electric,5,,,76-77,,,,,,284-285,11,195,3,28,393,111.8,,,e-motor,190 and 360 kW,,,,AWD,"Includes models with 21"" and 22"" wheels"
+2025,BMW,iX xDrive40,5510,0.25,SUV,Electric,5,,,83-87,,,,,,211-219,11,195,3,28,393,111.8,,,e-motor,190 and 230 kW,,,,AWD,"Includes models with 20"", 21"", and 22"" wheels"
+2025,BMW,iX xDrive50,5670,0.25,SUV,Electric,5,,,81-83,,,,,,302-309,11,195,3,28,393,111.8,,,e-motor,190 and 230 kW,,,,AWD,"Includes models with 20"", 21"", and 22"" wheels"
+2025,Bugatti Rimac,Nevera,4740,0.3,Sedan/Wagon,Electric,,52,54,53,,,,,,204,,,,,,153.6,,,e-motor,226 (x2) and 450 (x2) kW,,,,4WD,
+2025,Chevrolet,Blazer EV AWD,5163,0.29,SUV,Electric,5,102,87,95,,,,,,283,11.5,150-190,3,33,342,97.4,,,e-motor,67 and 180 kW,,,,AWD,
+2025,Genesis,Electrified G80,5047,0.25,Sedan/Wagon,Electric,5,105,89,97,,,,,,282,11,230,3,32,530,87.2,,,e-motor,136 kW (x2),,,,AWD,
+2025,Genesis,Electrified GV70,4850,0.28,SUV,Electric,5,98,83,91,,,,,,236,11,230,3,29,497,77.4,,,e-motor,74 and 160 kW,,,,AWD,
+2025,Genesis,GV60 Advanced/Performance,4800,0.29,SUV,Electric,5,,,90-100,,,,,,235-264,11,230,3,29,491,77.5,,,e-motor,74 and 160 kW,,,,AWD,"Includes models with 19"" and 20"" wheels
+"
+2025,Genesis,GV60 RWD,4700,0.29,SUV,Electric,5,125,99,112,,,,,,294,11,230,3,29,491,77.5,,,e-motor,168 kW ,,,,RWD,
+2025,GMC,Hummer EV Pickup,9000,0.38,Pickup,Electric,5,,,47-53,,,,,,289-318,19,300,2,28,356,194.9,,,e-motor,195 and 215 kW,,,,AWD,Includes models with MT tires
+2025,GMC,Hummer EV Pickup,9000,0.38,Pickup,Electric,5,58,46,52,,,,,,312,19,300,2,28,356,194.9,,,e-motor,198 kW (x3),,,,AWD,
+2025,GMC,Hummer EV SUV,8500,0.38,SUV,Electric,5,,,48-52,,,,,,289-312,19,300,2,30,377,194.9,,,e-motor,195 (x2) and 215 kW,,,,AWD,Includes models with MT tires
+2025,GMC,Hummer EV SUV,8500,0.38,SUV,Electric,5,,,47-53,,,,,,282-315,19,300,2,30,377,194.9,,,e-motor,195 and 215 kW,,,,AWD,Includes models with MT tires
+2025,Hyundai,Ioniq 5 N,4861,0.29,SUV,Electric,5,84,72,78,,,,,,221,11,199,4,35,503,84.1,,,e-motor,166 and 282 kW,,,,AWD,
+2025,Hyundai,Ioniq 6 AWD,4500,0.21,Sedan/Wagon,Electric,5,,,103-121,,,,,,270-316,11,221,4,34,554,77.4,,,e-motor,74 and 165 kW,,,,AWD,"Includes models with 18"" and 20"" wheels"
+2025,Hyundai,Ioniq 6 RWD,4300,0.21,Sedan/Wagon,Electric,5,,,111-132,,,,,,291-342,11,221,4,34,554,77.4,,,e-motor,168 kW,,,,RWD,"Includes models with 18"" and 20"" wheels"
+2025,Hyundai,Ioniq 6 Standard Range,4200,0.21,Sedan/Wagon,Electric,5,151,120,135,,,,,,240,11,221,4,34,554,53.3,,,e-motor,111 kW,,,,RWD,
+2025,Hyundai,Kona Electric,3800,0.29,SUV,Electric,5,,,103-116,,,,,,230-261,11,100,4,25,208,64.8,,,e-motor,150 kW,,,,FWD,"Includes Standard and long-range models with 17"" and 19"" wheels"
+2025,Hyundai,Kona Electric Standard Range,3700,0.29,SUV,Electric,5,113,105,118,,,,,,200,11,100,4,25,208,48.5,,,e-motor,99 kW,,,,FWD,
+2025,Kia,EV9 Long Range AWD,5700,0.3,SUV,Electric,6,,,80-83,,,,,,270-280,11,200,3,27,399,99.9,,,e-motor,141 (x2),,,,AWD,Includes GT-Line model
+2025,Kia,EV9 Long Range RWD,5500,0.3,SUV,Electric,6,100,78,89,,,,,,304,11,200,3,27,399,99.9,,,e-motor,160 kW,,,,RWD,
+2025,Kia,EV9 Standard Range RWD,5300,0.3,SUV,Electric,6,99,77,88,,,,,,230,11,200,3,27,399,76.2,,,e-motor,160 kW,,,,RWD,
+2025,Kia,Niro Electric,3721,0.29,SUV,Electric,5,126,101,113,,,,,,253,7.2,75,4,24,199,64.8,,,e-motor,150 kW,,,,FWD,
+2025,Lucid,Air G Touring XR AWD,5200,0.197,Sedan/Wagon,Electric,5,,,112-128,,,,,,446-512,19,300,4,69,876,136.8,,,e-motor,178 and 433 kW,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2025,Lucid,Air Pure RWD,4800,0.197,Sedan/Wagon,Electric,5,,,129-146,,,,,,372-420,19,300,4,69,876,84.1,,,e-motor,330 kW,,,,RWD,"Includes models with 19"" and 20"" wheels"
+2025,Lucid,Air Sapphire AWD,5200,0.197,Sedan/Wagon,Electric,5,108,101,105,,,,,,427,19,300,4,69,876,116.8,,,e-motor,310 kW (x3),,,,AWD,
+2025,Lucid,Air Touring AWD,5000,0.197,Sedan/Wagon,Electric,5,,,116-132,,,,,,361-406,19,300,4,69,876,116.8,,,e-motor,178 and 433 kW,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2025,Maserati,Grecale Folgore,5000,0.29,SUV,Electric,,,,62-75,,,,,,206-245,,,,,,57.6,,,e-motor,205 kW (x2),,,,AWD,"Includes models with 20"" and 21"" wheels"
+2025,Mercedes-Benz,AMG EQE 4MATIC+,5500,0.22,Sedan/Wagon,Electric,5,69,71,70,,,,,,220,9.6,170,3,27,456,95.8,,,e-motor,165 kW (x2),,,,AWD,
+2025,Mercedes-Benz,AMG EQE 4MATIC+ (SUV),5700,0.26,SUV,Electric,5,76,72,74,,,,,,230,9.6,170,3,27,456,95.8,,,e-motor,165 and 295 kW,,,,AWD,
+2025,Mercedes-Benz,AMG EQS 4MATIC+,5800,0.2,Sedan/Wagon,Electric,5,76,81,78,,,,,,315,9.6,200,4,29,489,122,,,e-motor,174 and 310 kW,,,,AWD,
+2025,Mercedes-Benz,EQE 350+,5300,0.22,Sedan/Wagon,Electric,5,94,94,94,,,,,,308,9.6,170,3,27,456,95.7,,,e-motor,215 kW,,,,RWD,
+2025,Mercedes-Benz,EQE 350 4MATIC,5400,0.22,Sedan/Wagon,Electric,5,87,85,86,,,,,,267,9.6,170,3,27,456,95.8,,,e-motor,71 and 144 kW,,,,AWD,
+2025,Mercedes-Benz,EQE 350 4MATIC (SUV),5500,0.26,SUV,Electric,5,84,78,81,,,,,,253,9.6,170,3,27,456,95.8,,,e-motor,71 and 144 kW,,,,AWD,
+2025,Mercedes-Benz,EQE 350+ (SUV),5400,0.26,Sedan/Wagon,Electric,5,98,87,93,,,,,,302,9.6,170,3,23,389,101.6,,,e-motor,215 kW,,,,RWD,
+2025,Mercedes-Benz,EQE 500 4MATIC,5500,0.22,Sedan/Wagon,Electric,5,85,84,85,,,,,,266,9.6,170,3,27,456,95.8,,,e-motor,71 and 144 kW,,,,AWD,
+2025,Mercedes-Benz,EQE 500 4MATIC (SUV),5600,0.26,Sedan/Wagon,Electric,5,83,78,81,,,,,,264,9.6,170,3,27,456,95.8,,,e-motor,71 and 144 kW,,,,AWD,
+2025,Mercedes-Benz,EQS 450+,5600,0.2,Sedan/Wagon,Electric,5,98,98,98,,,,,,323,9.6,200,4,29,489,122,,,e-motor,265 kW,,,,RWD,
+2025,Mercedes-Benz,EQS 450 4MATIC,5700,0.2,Sedan/Wagon,Electric,5,91,93,92,,,,,,367,9.6,200,4,29,489,122,,,e-motor,174 and 310 kW,,,,AWD,
+2025,Mercedes-Benz,EQS 450/580 4MATIC (SUV),5800,0.26,SUV,Electric,5,,,79-80,,,,,,312-317,9.6,200,4,29,489,122,,,e-motor,174 and 310 kW,,,,AWD,
+2025,Mercedes-Benz,EQS 450+ (SUV),5700,0.26,SUV,Electric,5,84,79,82,,,,,,323,9.6,200,4,29,489,122,,,e-motor,265 kW,,,,RWD,
+2025,Mercedes-Benz,EQS 580 4MATIC,5800,0.2,Sedan/Wagon,Electric,5,93,93,93,,,,,,371,9.6,200,4,29,489,122,,,e-motor,310 kW (x2),,,,AWD,
+2025,Mercedes-Benz,EQS 680 4MATIC Maybach (SUV),6000,0.26,SUV,Electric,5,76,76,76,,,,,,302,9.6,200,4,29,489,122,,,e-motor,174 and 310 kW,,,,AWD,
+2025,Mini,Countryman SE ALL4,4200,0.31,SUV,Electric,5,,,91-96,,,,,,204-212,11,130,4,34,397,66.4,,,e-motor,140 kW (x2),,,,AWD,"Includes models with 18"" and 19"" wheels"
+2025,Nissan,LEAF,3500,0.28,Sedan/Wagon,Electric,5,123,99,111,,,,,,149,6.6,70,4,22,189,40.3,,,e-motor,110 kW,,,,FWD,
+2025,Nissan,LEAF,3500,0.28,Sedan/Wagon,Electric,5,121,99,109,,,,,,212,6.6,70,4,22,189,60.6,,,e-motor,160 kW,,,,FWD,
+2025,Polestar,2 Dual Motor,4600,0.278,Sedan/Wagon,Electric,5,,,91-101,,,,,,254-278,11,155-205,3,30,328,81.6,,,e-motor,190/200 and 215 kW,,,,AWD,"Includes Performance Pack model and models with 19"" and 20"" wheels"
+2025,Polestar,2 Single Motor,4400,0.278,Sedan/Wagon,Electric,5,,,109-114,,,,,,300-314,11,155-205,3,30,328,81.6,,,e-motor,185 and 220 kW,,,,RWD,"Includes models with 19"" and 20"" wheels"
+2025,Polestar,3 Long Range Dual Motor,5600,0.29,SUV,Electric,5,,,77-88,,,,,,279-315,11,250,3,29,534,111,,,e-motor,127/173 and 180/200 kW,,,,AWD,"Includes Performance Pack model and models with 20"", 21"", and 22"" wheels"
+2025,Polestar,4 Long Range Dual Motor,5400,0.27,SUV,Electric,,86,80,83,,,,,,272,,,,,,100.1,,,e-motor,200 kW,,,,AWD,
+2025,Polestar,4 Long Range Single Motor,5200,0.27,SUV,Electric,,93,87,90,,,,,,300,,,,,,100.1,,,e-motor,200 kW,,,,RWD,
+2025,Porsche,Taycan 4S Perf Battery Plus,5100,0.22,Sedan/Wagon,Electric,4,94,92,93,,,,,,315,11,270,2,23,442,109.7,,,e-motor,201 and 235 kW,,,,AWD,19in All-Season (M+S) model
+2025,Porsche,Taycan Perf Battery/Battery Plus,5000,0.22,Sedan/Wagon,Electric,4,,,91-92,,,,,,274-318,11,270,2,23,442,122.4,,,e-motor,300 and 320 kW,,,,RWD,Includes Performance Battery and Performance Battery Plus models
+2025,Rivian ,R1S Dual,7200,0.3,SUV,Electric,7,,,72-84,,,,,,292-410,11.5,210,2,24,349,149.7,,,e-motor,208 or 264 kW (x2),,,,4WD,"Includes Large, Large Plus, All-Terrain, and Performance models with 20"" and 22"" wheels"
+2025,Rivian ,R1S Dual Standard,7000,0.3,SUV,Electric,7,,,79-85,,,,,,258-270,11.5,210,2,24,374,94.7,,,e-motor,208 kW (x2),,,,Part-Time 4WD,"Includes models with 20"" and 22"" wheels"
+2025,Rivian ,R1T Dual,7300,0.3,Pickup,Electric,5,,,72-87,,,,,,292-420,11.5,210,2,24,374,149.7,,,e-motor,264 kW (x2),,,,4WD,"Includes  Large, Large Plus, Max, All-Terrain, and Performance models with 20"" and 22"" wheels"
+2025,Rivian ,R1T Dual Standard,7100,0.3,Pickup,Electric,5,,,79-85,,,,,,258-270,11.5,210,2,24,374,94.7,,,e-motor,208 kW (x2),,,,Part-Time 4WD,"Includes models with 20"" and 22"" wheels"
+2025,Rolls-Royce,Black Badge Spectre,6500,0.25,Sedan/Wagon,Electric,,,,70-74,,,,,,251-266,,,,,,105.6,,,e-motor,190 and 360 kW,,,,AWD,"Includes models with 22"" and 23"" wheels"
+2025,Rolls-Royce,Spectre,6500,0.25,Sedan/Wagon,Electric,,,,70-77,,,,,,253-277,,,,,,105.6,,,e-motor,190 and 360 kW,,,,AWD,"Includes models with 22"" and 23"" wheels"
+2025,Volkswagen,ID. Buzz,5000,0.285,Van,Electric,,90,75,83,,,,,,234,,,,,,91.7,,,e-motor,210 kW,,,,RWD,
+2025,Volkswagen,ID. Buzz 4Motion,5100,0.285,Van,Electric,,87,74,80,,,,,,231,,,,,,91.7,,,e-motor,80 and 210 kW,,,,AWD,
+2025,Volvo,EC40/EX40,4700,0.32,SUV,Electric,5,,,106,,,,,,296-298,11,149,3,28,310,81.6,,,e-motor,185 and 220 kW,,,,RWD,
+2025,Volvo,EC40/EX40 Twin,4800,0.32,SUV,Electric,5,,,94-97,,,,,,260-268,11,149,3,28,310,81.6,,,e-motor,135/190 kW and 210/215 kW,,,,AWD,
+2025,Volvo,EX30 Single Motor extended range,3900,0.28,SUV,Electric,,,,114-116,,,,,,257-261,,,,,,66.2,,,e-motor,185 kW,,,,RWD,"Includes models with 18"", 19"", and 20"" wheels"
+2024,Acura,ZDX AWD,5300,0.29,SUV,Electric,,94,80,87,,,,,,304,,,,,,119.2,,,e-motor,155 and 220 kW,,,,AWD,
+2024,Acura,ZDX RWD,5100,0.29,SUV,Electric,,96,83,90,,,,,,313,,,,,,119.2,,,e-motor,255 kW ,,,,RWD,
+2024,Audi,e-tron GT/RS e-tron GT,5174,0.24,Sedan/Wagon,Electric,5,,,85,,,,,,249,9.6,270,3,23,292,93,,,e-motor,175 kW and 320 or 335 kW,,,,AWD,
+2024,Audi,Q4 40 e-tron,5265,0.28,SUV,Electric,5,112,94,103,,,,,,265,11,125,3,31,282,82,,,e-motor,150 kW,,,,RWD,
+2024,Audi,Q4 50 e-tron quattro,4900,0.28,SUV,Electric,5,,,93-95,,,,,,236-242,11,125,3,31,282,82,,,e-motor,80 kW (x2),,,,AWD,Includes Sportback model
+2024,Audi,Q4 55 e-tron quattro,5000,0.28,SUV,Electric,5,107,92,100,,,,,,258,11,125,3,31,282,82.4,,,e-motor,80 and 150 kW,,,,AWD,Includes Sportback model
+2024,Audi,Q8 e-tron quattro,5700,0.28,SUV,Electric,5,80,83,81,,,,,,285,11,125,3,31,282,114,,,e-motor,141 kW (x2),,,,AWD,
+2024,Audi,Q8 Sportback e-tron quattro,5650,0.26,SUV,Electric,5,84,90,87,,,,,,296,9.6-19.2,170,3,44,311,114,,,e-motor,141 and 172 kW,,,,AWD,
+2024,Audi,Q8 Sportback e-tron ultra quattro,5600,0.26,SUV,Electric,5,84,89,86,,,,,,300,11,125,3,31,282,114,,,e-motor,172 kW (x2),,,,AWD,
+2024,Audi,SQ8 e-tron/Sportback e-tron,5800,0.26,SUV,Electric,,,,63-73,,,,,,218-253,,,,,,114,,,e-motor,172 kW,,,,AWD,"Includes models with 20"", 21"", and 22"" wheels"
+2024,BMW,i4 eDrive35 Gran Coupe,4680,0.24,Sedan/Wagon,Electric,,,,110-120,,,,,,252-276,11,195,4,33,463,84,,,e-motor,250 kW,,,,RWD,"Includes models with 18"" and 19"" wheels"
+2024,BMW,i4 eDrive40 Gran Coupe,4680,0.24,Sedan/Wagon,Electric,5,,,100-109,,,,,,283-301,11,195,4,33,463,84,,,e-motor,250 kW,,,,RWD,"Includes models with 18"" and 19"" wheels"
+2024,BMW,i4 M50 Gran Coupe,5018,0.25,Sedan/Wagon,Electric,5,,,80-95,,,,,,227-269,11,196,4,33,463,105,,,e-motor,190 and 230 kW ,,,,AWD,"Includes models with 19"" and 20"" wheels"
+2024,BMW,i4 xDrive40 Gran Coupe,4850,0.25,Sedan/Wagon,Electric,5,,,99-109,,,,,,279-307,11,195,4,33,463,105,,,e-motor,190 and 230 kW ,,,,AWD,"Includes models with 18"" and 19"" wheels"
+2024,BMW,i5 eDrive40 Sedan,4850,0.23,Sedan/Wagon,Electric,,,,96-105,,,,,,270-295,,,,,,84,,,e-motor,250 kW,,,,RWD,"Includes models with 19"", 20"", and 21"" wheels"
+2024,BMW,i5 M60 xDrive Sedan,5300,0.23,Sedan/Wagon,Electric,,,,85-91,,,,,,240-256,,,,,,84,,,e-motor,190 and 230 kW ,,,,4WD,"Includes models with 19"", 20"", and 21"" wheels"
+2024,BMW,i7 eDrive50 Sedan,5820,0.24,Sedan/Wagon,Electric,5,,,86-90,,,,,,301-321,11,195,4,33,412,105,,,e-motor,335 kW,,,,RWD,"Includes models with 19"", 20"", and 21"" wheels"
+2024,BMW,i7 M70 xDrive Sedan,5950,0.24,Sedan/Wagon,Electric,5,,,77-81,,,,,,274-291,11,195,4,33,412,111,,,e-motor,190 and 360 kW,,,,AWD,"Includes models with 20"" and 21"" wheels"
+2024,BMW,i7 xDrive60 Sedan,5950,0.24,Sedan/Wagon,Electric,5,,,84-90,,,,,,298-317,11,195,4,33,412,105,,,e-motor,190 and 230 kW,,,,4WD,"Includes models with 19"", 20"", and 21"" wheels"
+2024,BMW,iX M60,5700,0.25,SUV,Electric,5,,,80,,,,,,296,11,195,3,28,393,111,,,e-motor,190 and 360 kW,,,,AWD,"Includes models with 21"" and 22"" wheels"
+2024,BMW,iX xDrive40,5510,0.25,SUV,Electric,5,87,85,86,,,,,,217,11,195,3,28,393,111,,,e-motor,190 and 230 kW,,,,AWD,"Includes models with 20"", 21"", and 22"" wheels"
+2024,BMW,iX xDrive50,5670,0.25,SUV,Electric,5,,,83,,,,,,307,11,195,3,28,393,111,,,e-motor,190 and 230 kW,,,,AWD,"Includes models with 20"", 21"", and 22"" wheels"
+2024,Bugatti Rimac,Nevera,4740,0.3,Sedan/Wagon,Electric,,52,54,53,,,,,,204,,,,,,153.6,,,e-motor,226 kW,,,,4WD,
+2024,Cadillac,Lyric,5610,0.29,SUV,Electric,5,95,82,88,,,,,,314,11.5-19.2,190,4,29,401,119,,,e-motor,255 kW electric motor,,,,RWD,
+2024,Cadillac,Lyric AWD,5790,0.29,SUV,Electric,5,96,81,89,,,,,,307,11.5-19.2,190,4,29,401,119.2,,,e-motor,155 kW (x2),,,,AWD,
+2024,Chevrolet,Blazer EV AWD,5163,0.29,SUV,Electric,5,103,88,96,,,,,,279,11.5,150-190,3,33,342,99,,,e-motor,67 kW (x2),,,,AWD,
+2024,Chevrolet,Blazer EV RWD,4900,0.29,SUV,Electric,5,99,84,92,,,,,,324,11.5,150-190,3,33,342,119.2,,,e-motor,255 kW,,,,RWD,
+2024,Chevrolet,Equinox EV AWD,4800,0.29,SUV,Electric,,101,90,96,,,,,,285,,,,,,99.8,,,e-motor,67 and 180 kW ,,,,AWD,
+2024,Chevrolet,Equinox EV FWD,4600,0.29,SUV,Electric,,117,99,108,,,,,,319,,,,,,99.8,,,e-motor,180 kW,,,,FWD,
+2024,Chevrolet,Silverado EV,8000,0.32,Pickup,Electric,,72,62,67,,,,,,393,,,,,,168,,,e-motor,189 kW (x2),,,,AWD,
+2024,Chevrolet,Silverado EV,8000,0.32,Pickup,Electric,,67,59,63,,,,,,450,,,,,,208,,,e-motor,191 kW (x2),,,,AWD,
+2024,Fiat,500e,2900,0.31,Sedan/Wagon,Electric,,,,110-116,,,,,,141-149,,,,,,42.2,,,e-motor,87 kW electric motor,,,,FWD,Includes standard and All Season model
+2024,Fisker Automotive,Ocean Sport,4300,0.29,SUV,Electric,,,,79-92,,,,,,194-231,,,,,,75.3,,,e-motor,207 kW,,,,FWD,"Includes models with 20"" and 22"" wheels"
+2024,Ford,F150 Lightning 4WD,6500,0.35,Pickup,Electric,5,76,61,68,,,,,,240,11.6-19.6,150,2,24-40,249,124,,,e-motor,358 kW (x2),,,,AWD,
+2024,Ford,F150 Lightning 4WD Plat/Ext. Range,6800,0.35,Pickup,Electric,5,,,66-70,,,,,,300-320,11.6-19.6,150,2,24-40,249,165.2,,,e-motor,210 kW (x2),,,,AWD,Includes  Platinum and PRO Extended Range models
+2024,Ford,Mustang Mach-E AWD,4900,0.3,SUV,Electric,5,95,88,91,,,,,,230,11,115-150,3,30,331,91.4,,,e-motor,198 kW (x2),,,,AWD,
+2024,Ford,Mustang Mach-E AWD Extended,5000,0.3,SUV,Electric,5,103,94,99,,,,,,300,11,115-150,3,30,331,116.4,,,e-motor,78 and 210 kW,,,,AWD,
+2024,Ford,Mustang Mach-E GT/Rally,5100,0.3,SUV,Electric,5,,,86-90,,,,,,265-280,11,115-150,3,30,331,116.4,,,e-motor,210 kW (x2),,,,AWD,
+2024,Ford,Mustang Mach-E RWD,4700,0.3,SUV,Electric,5,,,102-106,,,,,,250-320,11,115-150,3,30,331,116.4,,,e-motor,197 or 216 kWe,,,,RWD,Includes Extended Range models
+2024,Genesis,Electrified G70,4850,0.28,Sedan/Wagon,Electric,5,98,83,91,,,,,,236,11,230,3,29,497,77,,,e-motor,160 kW (x2),,,,AWD,
+2024,Genesis,Electrified G80,5047,0.25,Sedan/Wagon,Electric,5,105,89,97,,,,,,282,11,230,3,32,530,87,,,e-motor,136 kW (x2),,,,AWD,
+2024,Genesis,GV60 Advanced/Performance,4800,0.29,SUV,Electric,5,,,95-100,,,,,,248-264,11,230,3,29,497,77,,,e-motor,160 kW and 74 or 160 kW,,,,AWD,"Includes models with 19"" and 20"" wheels
+"
+2024,Genesis,GV60 Standard,4700,0.29,SUV,Electric,5,125,99,112,,,,,,294,11,230,3,29,491,77,,,e-motor,168 kW ,,,,RWD,
+2024,GMC,Hummer EV Pickup,9063,0.38,Pickup,Electric,,,,50-53,,,,,,298-314,,,,,,199,,,e-motor,214 kW (x3),,,,AWD,Includes models with MT tires
+2024,GMC,Hummer EV SUV,9063,0.38,SUV,Electric,,,,50-53,,,,,,298-314,,,,,,199,,,e-motor,214 kW (x3),,,,AWD,Includes models with MT tires
+2024,Honda,Prologue AWD Elite/Touring,4600,0.3,SUV,Electric,,,,92-95,,,,,,273-281,,,,,,100.1,,,e-motor,67 and 180 kW,,,,AWD,
+2024,Honda,Prologue FWD,4500,0.3,SUV,Electric,5,107,91,99,,,,,,296,,,,,,100.1,,,e-motor,168 kW,,,,FWD,
+2024,Hyundai,Ioniq 5 Long range AWD,4464,0.288,SUV,Electric,5,110,88,99,,,,,,260,11,199,4,35,503,77,,,e-motor,165 kW (x2),,,,AWD,
+2024,Hyundai,Ioniq 5 Long range RWD,4200,0.288,SUV,Electric,5,132,98,114,,,,,,303,11,199,4,35,503,77,,,e-motor,168 kW,,,,RWD,
+2024,Hyundai,Ioniq 5 Standard range RWD,3968,0.288,SUV,Electric,5,127,94,110,,,,,,220,11,199,4,35,503,58,,,e-motor,125 kW,,,,RWD,
+2024,Hyundai,Ioniq 6 Long range AWD,4464,0.21,Sedan/Wagon,Electric,,,,103-121,,,,,,270-316,,,,,,77,,,e-motor,165 kW (x2),,,,AWD,"Includes models with 18"" and 20"" wheels"
+2024,Hyundai,Ioniq 6 Long range RWD,4200,0.21,Sedan/Wagon,Electric,,,,117-140,,,,,,305-361,,,,,,77,,,e-motor,168 kW (x2),,,,RWD,"Includes models with 18"" and 20"" wheels"
+2024,Hyundai,Ioniq 6 Standard range RWD,3968,0.21,Sedan/Wagon,Electric,,151,120,135,,,,,,240,,,,,,53,,,e-motor,111 kW,,,,RWD,
+2024,Hyundai,Kona Electric,3880,0.29,SUV,Electric,5,,,116-118,,,,,,200-261,11,100,4,25,208,48,,,e-motor,99 or 150 kW,,,,FWD,Includes Standard and Long Range models
+2024,Jaguar,I-PACE EV400,4784,0.29,SUV,Electric,5,,,76-85,,,,,,217-246,7,100,3,16,180,86,,,e-motor,147 kW (x2),,,,4WD,
+2024,Kia,EV6 AWD GT,4795,0.28,SUV,Electric,5,85,77,83,,,,,,218,11,200,4,36,527,77,,,e-motor,160 kW (x2),,,,AWD,
+2024,Kia,EV6 Long Range AWD,4502,0.28,SUV,Electric,5,,,96-109,,,,,,252-282,11,200,4,36,527,77,,,e-motor,165 kW (x2),,,,AWD,"Includes models with 19"" and 20"" wheels"
+2024,Kia,EV6 Long Range RWD,4255,0.28,SUV,Electric,5,134,101,117,,,,,,310,11,200,4,36,527,77,,,e-motor,168 kW,,,,RWD,
+2024,Kia,EV6 Standard Range RWD,4020,0.28,SUV,Electric,5,136,100,117,,,,,,232,11,200,4,36,527,77,,,e-motor,125 kW,,,,RWD,
+2024,Kia,EV9 Long Range AWD,5700,0.3,SUV,Electric,,,,80-83,,,,,,270-280,,,,,,99,,,e-motor,141 (x2),,,,AWD,Includes GT-Line model
+2024,Kia,EV9 Long Range RWD,5500,0.3,SUV,Electric,,100,78,89,,,,,,304,,,,,,99,,,e-motor,160 kW,,,,RWD,
+2024,Kia,EV9 Standard Range RWD,5300,0.3,SUV,Electric,,99,77,88,,,,,,230,,,,,,76,,,e-motor,160 kW,,,,RWD,
+2024,Kia,Niro Electric,3721,0.29,SUV,Electric,5,126,101,113,,,,,,253,7.2,75,4,24,199,64,,,e-motor,150 kW,,,,FWD,
+2024,Lexus,RZ 300e,4564,0.29,SUV,Electric,,,,105-125,,,,,,224-270,,,,,,72.8,,,e-motor,150 kW,,,,FWD,"Includes models with 18"" and 20"" wheels"
+2024,Lexus,RZ 450e,4564,0.29,SUV,Electric,5,,,95-107,,,,,,196-220,6.6,100-150,4,23,353,71.4,,,e-motor,80 kW and 150 kW,,,,AWD,"Includes models with 18"" and 20"" wheels"
+2024,Lucid,Air G Touring XR AWD,5200,0.197,Sedan/Wagon,Electric,5,,,113-129,,,,,,450-516,19,300,4,69,876,136.8,,,e-motor,178 and 433 kW,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2024,Lucid,Air Pure RWD,4800,0.197,Sedan/Wagon,Electric,5,,,130-137,,,,,,394-419,19,300,4,69,876,86,,,e-motor,330 kW,,,,RWD,"Includes models with 19"" and 20"" wheels"
+2024,Lucid,Air Sapphire AWD,5200,0.197,Sedan/Wagon,Electric,,108,101,105,,,,,,427,19,300,4,69,876,120,,,e-motor,310 kW (x2) and 330 kW,,,,AWD,
+2024,Lucid,Air Touring AWD,5000,0.197,Sedan/Wagon,Electric,5,,,118-133,,,,,,365-411,19,300,4,69,876,136.8,,,e-motor,178 and 433 kW,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2024,Maserati,Grancabrio/Granturismo Folgore,4982,0.32,Sedan/Wagon,Electric,,,,82-87,,,,,,233-242,,,,,,45.6,,,e-motor,275 kW (x3),,,,AWD,
+2024,Mercedes-Benz,AMG EQE 4MATIC+,5500,0.22,Sedan/Wagon,Electric,5,73,74,73,,,,,,230,9.6,170,3,22,456,95,,,e-motor,165 kW (x2),,,,AWD,
+2024,Mercedes-Benz,AMG EQE 4MATIC+,5500,0.22,Sedan/Wagon,Electric,5,73,74,73,,,,,,230,9.6,170,3,22,456,95.8,,,e-motor,165 kW (x2),,,,AWD,
+2024,Mercedes-Benz,AMG EQE 4MATIC+ (SUV),5700,0.26,SUV,Electric,5,77,71,74,,,,,,235,9.6,170,3,22,456,95,,,e-motor,165 kW (x2),,,,AWD,
+2024,Mercedes-Benz,AMG EQE 4MATIC+ (SUV),5700,0.26,SUV,Electric,5,77,71,74,,,,,,235,9.6,170,3,22,456,95.8,,,e-motor,165 kW (x2),,,,AWD,
+2024,Mercedes-Benz,AMG EQS 4MATIC+,5800,0.2,Sedan/Wagon,Electric,5,79,85,82,,,,,,305,9.6,200,4,29,489,111,,,e-motor,310 kW (x2),,,,AWD,
+2024,Mercedes-Benz,EQB 250+,4718,0.28,SUV,Electric,7-May,114,100,107,,,,,,251,9.6,100,3,27,228,72.2,,,e-motor,140 kW,,,,FWD,
+2024,Mercedes-Benz,EQB 300 4MATIC,4883,0.28,SUV,Electric,7-May,89,85,87,,,,,,205,9.6,100,3,27,228,72.2,,,e-motor,72 kW,,,,AWD,
+2024,Mercedes-Benz,EQB 350 4MATIC,4883,0.28,SUV,Electric,7-May,89,85,87,,,,,,207,9.6,100,3,27,228,72.2,,,e-motor,72 and 96 kW,,,,AWD,
+2024,Mercedes-Benz,EQE 350+,5300,0.22,Sedan/Wagon,Electric,5,98,94,96,,,,,,298,9.6,170,3,22,456,95,,,e-motor,215 kW (x2),,,,RWD,
+2024,Mercedes-Benz,EQE 350 4MATIC,5400,0.22,Sedan/Wagon,Electric,5,86,96,90,,,,,,280,9.6,170,3,22,456,95,,,e-motor,72 and 144 kW (x2),,,,AWD,
+2024,Mercedes-Benz,EQE 350 4MATIC (SUV),5500,0.26,SUV,Electric,5,88,82,85,,,,,,265,9.6,171,3,23,389,88.9,,,e-motor,71 and 144 kW,,,,AWD,
+2024,Mercedes-Benz,EQE 350+ (SUV),5400,0.26,SUV,Electric,5,99,88,94,,,,,,307,9.6,171,3,23,389,101.6,,,e-motor,215 kW,,,,RWD,
+2024,Mercedes-Benz,EQE 500 4MATIC,5500,0.22,Sedan/Wagon,Electric,5,98,94,96,,,,,,298,9.6,170,3,22,456,88,,,e-motor,100 and 200 kW,,,,AWD,
+2024,Mercedes-Benz,EQE 500 4MATIC (SUV),5600,0.26,SUV,Electric,5,88,83,86,,,,,,282,9.6,171,3,23,389,95.7,,,e-motor,31 and 104 kW,,,,AWD,
+2024,Mercedes-Benz,EQS 450+,5600,0.2,Sedan/Wagon,Electric,5,95,98,96,,,,,,352,9.6,200,3,27,489,111,,,e-motor,265 kW,,,,RWD,
+2024,Mercedes-Benz,EQS 450 4MATIC,5700,0.2,Sedan/Wagon,Electric,5,93,98,95,,,,,,345,9.6,200,3,27,489,107,,,e-motor,135 kW (x2),,,,AWD,
+2024,Mercedes-Benz,EQS 450/580 4MATIC (SUV),5800,0.26,SUV,Electric,5,85,81,83,,,,,,330,9.6,200,3,22,366,122,,,e-motor,135 and 265 kW,,,,AWD,
+2024,Mercedes-Benz,EQS 450+ (SUV),5700,0.26,SUV,Electric,5,88,83,86,,,,,,339,9.6,200,3,22,366,122,,,e-motor,265 kW,,,,RWD,
+2024,Mercedes-Benz,EQS 580 4MATIC,5800,0.2,Sedan/Wagon,Electric,5,95,98,96,,,,,,345,9.6,200,3,27,489,107,,,e-motor,265 kW (x2),,,,AWD,
+2024,Mercedes-Benz,EQS 680 4MATIC Maybach (SUV),6000,0.26,SUV,Electric,5,75,77,76,,,,,,280,9.6,200,3,27,489,111,,,e-motor,310 kW (x2),,,,AWD,
+2024,Mercedes-Benz,EQS 680 4MATIC Maybach (SUV),6000,0.26,SUV,Electric,5,81,81,81,,,,,,321,9.6,200,3,22,366,122,,,e-motor,174 and 310 kW,,,,AWD,
+2024,Mini,Cooper SE Hardtop 2 door,3153,0.28,Sedan/Wagon,Electric,4,119,100,110,,,,,,114,7.4,,4,28,128,32,,,e-motor,135 kW,,,,FWD,
+2024,Nissan,ARIYA ENGAGE e-4ORCE 63kWh,4608,0.29,Sedan/Wagon,Electric,5,101,89,95,,,,,,205,7.2,130,4,22,312,65.8,,,e-motor,160 kW (x2),,,,AWD,
+2024,Nissan,ARIYA ENGAGE+/EVOLVE+ e-4ORCE 87kWh,4608,0.29,Sedan/Wagon,Electric,5,97,86,92,,,,,,272,7.2,130,4,22,312,90.8,,,e-motor,160 kW (x2),,,,AWD,
+2024,Nissan,ARIYA ENGAGE FWD 63kWh,4343,0.29,Sedan/Wagon,Electric,5,109,94,101,,,,,,216,7.2,130,4,22,312,65.8,,,e-motor,160 kW,,,,FWD,
+2024,Nissan,ARIYA EVOLVE+/EMPOWER+/VENTURE+ FWD 87kWh,4343,0.29,Sedan/Wagon,Electric,5,,,98-103,,,,,,289-304,7.2,130,4,22,312,90.8,,,e-motor,178 kW,,,,FWD,
+2024,Nissan,ARIYA PLATINUM+ e-4ORCE 87kWh,4608,0.29,Sedan/Wagon,Electric,5,,,87-90,,,,,,257-267,7.2,130,4,22,312,90.8,,,e-motor,160 kW,,,,AWD,"Includes models with 19"" and 20"" wheels"
+2024,Nissan,LEAF,3501,0.28,Sedan/Wagon,Electric,5,123,99,111,,,,,,149,6.6,70,4,22,189,40,,,e-motor,110 kW,,,,FWD,
+2024,Nissan,LEAF SV,3501,0.28,Sedan/Wagon,Electric,5,121,98,109,,,,,,212,6.6,70,4,22,189,60,,,e-motor,160 kW,,,,FWD,
+2024,Polestar,Polestar 2 Dual Motor,4680,0.278,Sedan/Wagon,Electric,5,,,102-106,,,,,,266-276,11,150,3,30,328,77,,,e-motor,110 and 200 kW,,,,AWD,"Includes models with 19"" and 20"" wheels"
+2024,Polestar,Polestar 2 Dual Motor Performance Pack,4680,0.278,Sedan/Wagon,Electric,5,100,90,95,,,,,,247,11,150,3,30,328,77,,,e-motor,135 and 200 kW,,,,AWD,
+2024,Polestar,Polestar 2 Single Motor,4396,0.278,Sedan/Wagon,Electric,5,,,111-115,,,,,,307-320,11,150,3,30,328,81,,,e-motor,220 kW,,,,RWD,"Includes models with 19"" and 20"" wheels"
+2024,Porsche,Taycan 4S Cross Turismo,5199,0.26,Sedan/Wagon,Electric,4,78,78,78,,,,,,230,11,270,2,23,442,109.7,,,e-motor,190 and 235 kW,,,,AWD,
+2024,Porsche,Taycan 4S Perf Battery/Plus,5199,0.22,Sedan/Wagon,Electric,4,,,80-82,,,,,,206-235,11,270,2,23,442,109,,,e-motor,150 kW and 234 or 254 kW,,,,AWD,Includes Performance Battery and Performance Battery Plus models
+2024,Porsche,Taycan Cross Turismo,5199,0.26,Sedan/Wagon,Electric,4,,,75-80,,,,,,222-235,11,270,2,23,442,109,,,e-motor,234 kW and/or 235 kW,,,,AWD,"Includes 4, Turbo, and Turbo S models"
+2024,Porsche,Taycan GTS Sport Turismo,5199,0.26,Sedan/Wagon,Electric,4,,,80-83,,,,,,233-246,11,270,2,23,442,109,,,e-motor,234 or 254 kW,,,,AWD,Includes Sport Turismo model
+2024,Porsche,Taycan Perf Battery/Plus,5199,0.22,Sedan/Wagon,Electric,4,,,82--83,,,,,,208-242,11,270,2,23,442,109,,,e-motor,280 kW,,,,RWD,Includes Performance Battery and Performance Battery Plus models
+2024,Porsche,Taycan Turbo/Turbo S,5199,0.22,Sedan/Wagon,Electric,4,,,75-81,,,,,,222-238,11,270,2,23,442,109,,,e-motor,235 or 254 kW,,,,AWD,
+2024,Rivian ,R1S All-Terrain Quad Large (20in),7150,0.3,SUV,Electric,7,65,60,63,,,,,,274,11.5,209,2,24,349,144,,,e-motor,"162 kW (x2), 163 kW, and 135 kW ",,,,AWD,
+2024,Rivian ,R1S Dual,7150,0.3,SUV,Electric,7,,,65-78,,,,,,255-352,11.5,209,2,24,349,144,,,e-motor,208 kW (x2),,,,Part-Time 4WD,"Includes Large, Standard, Standard Plus, All-Terrain, and Performance models with 20"", 21"", and 22"" wheels"
+2024,Rivian ,R1S Dual Max,7150,0.3,SUV,Electric,7,,,73-82,,,,,,355-400,11.5,209,2,24,349,149.7,,,e-motor,208 kW (x2),,,,Part-Time 4WD,"Includes  All-Terrain and Performance models and models with 20"", 21"", and 22"" wheels"
+2024,Rivian ,R1S Quad Large,7150,0.3,SUV,Electric,7,,,64-71,,,,,,289-321,11.5,209,2,24,349,144,,,e-motor,162 kW (x4),,,,AWD,"Includes  models with 20"", 21"", and 22"" wheels"
+2024,Rivian ,R1T Dual,7150,0.3,Pickup,Electric,5,,,65-78,,,,,,255-352,11.5,210,2,24,344,144,,,e-motor,208 kW (x2),,,,Part-Time 4WD,"Includes  Large, Standard, Standard Plus, All-Terrain, and Performance models with 20"", 21"", and 22"" wheels"
+2024,Rivian ,R1T Dual Max,7150,0.3,Pickup,Electric,5,,,73-84,,,,,,355-410,11.5,210,2,24,344,149.7,,,e-motor,208 kW (x2),,,,Part-Time 4WD,"Includes All-Terrain and Performance models with 20"", 21"", and 22"" wheels"
+2024,Rivian ,R1T Quad Large,7150,0.3,Pickup,Electric,5,,,63-73,,,,,,274-328,11.5,210,2,24,344,144,,,e-motor,162 kW (x4),,,,AWD,"Includes All-Terrain models and models with 20"", 21"", and 22"" wheels"
+2024,Rolls-Royce,Black Badge Spectre,6559,0.25,Sedan/Wagon,Electric,,,,73-78,,,,,,264-280,,,,,,105,,,e-motor,190 and 360 kW,,,,AWD,"Includes models with 22"" and 23"" wheels"
+2024,Rolls-Royce,Spectre,6559,0.25,Sedan/Wagon,Electric,,,,74-81,,,,,,266-291,,,,,,105,,,e-motor,190 and 360 kW,,,,AWD,"Includes models with 22"" and 23"" wheels"
+2024,Subaru,Solterra,4365,0.29,SUV,Electric,5,,,102-104,,,,,,222-227,6.6,100-150,4,23,353,72,,,e-motor,80 kW (x2),,,,AWD,Includes Limited and Touring model
+2024,Tesla,Model 3 Long Range AWD,4034,0.219,Sedan/Wagon,Electric,5,137,124,130,,,,,,342,11.5,250,4,41,712,81.4,,,e-motor,84 and 191 kW,,,,AWD,
+2024,Tesla,Model 3 Long Range AWD-E,4034,0.219,Sedan/Wagon,Electric,5,133,122,128,,,,,,341,11.5,250,4,41,712,81.4,,,e-motor,191 kW,,,,AWD,
+2024,Tesla,Model 3 RWD,3862,0.219,Sedan/Wagon,Electric,5,140,125,132,,,,,,272,11.5,250,4,41,712,60.2,,,e-motor,192 kW,,,,RWD,
+2024,Tesla,Model S ,4561,0.208,Sedan/Wagon,Electric,5,127,116,122,,,,,,402,11.5,250,4,38,653,104.4,,,e-motor,247 kW (x2),,,,AWD,
+2024,Tesla,Model S Plaid,4776,0.208,Sedan/Wagon,Electric,5,,,96-107,,,,,,320-359,11.5,250,4,38,653,105,,,e-motor,250 kW (X3),,,,AWD,"Includes models with 19"" and 21"" wheels"
+2024,Tesla,Model X,5185,0.24,SUV,Electric,7-May,,,90-100,,,,,,300-335,11.5,250,3,33,570,105,,,e-motor,243 kW (X2) or 230 kW (X3),,,,AWD,"Includes Plaid models with 20"" and 22"" wheels"
+2024,Tesla,Model Y Long Range AWD-I,4416,0.23,SUV,Electric,7-May,123,112,118,,,,,,308,11.5,250,4,41,712,83.4,,,e-motor,200 kW,,,,AWD,
+2024,Tesla,Model Y Performance/Long Range AWD,4416,0.23,SUV,Electric,7-May,,,105-117,,,,,,279-310,11.5,250,4,41,712,83.4,,,e-motor,91/135 and 200/202 kW,,,,AWD,
+2024,Tesla,Model Y RWD,4065,0.23,SUV,Electric,7-May,128,112,120,,,,,,260-320,11.5,250,4,41,712,66.5,,,e-motor,203 or 221 kW,,,,RWD,Includes standard and Long Range models
+2024,Toyota,bZ4X,4266,0.28,SUV,Electric,5,,,112-119,,,,,,236-252,6.6,150,4,23,353,71.4,,,e-motor,150 kW,,,,FWD,Includes standard and Limited models
+2024,Toyota,bZ4X AWD,4464,0.28,SUV,Electric,5,,,102-104,,,,,,222-228,6.6,100-150,4,23,353,72.8,,,e-motor,80 kW (X2),,,,AWD,Includes standard and Limited models
+2024,VinFast,VF 9 Eco/Plus,5730,0.3,SUV,Electric,,,,69-75,,,,,,291-330,,,,,,93,,,e-motor,260 or 300 kW,,,,AWD,Includes Plus model
+2024,Volkswagen,ID.4 AWD Pro/Pro S,4888,0.28,SUV,Electric,5,,,102,,,,,,263,11,170,4,34,416,81,,,e-motor,105 and 209 kW,,,,AWD,
+2024,Volkswagen,ID.4/S/Pro S,4665,0.28,SUV,Electric,5,,,107-113,,,,,,206-291,11,170,4,34,416,81,,,e-motor,210 kW,,,,RWD,"Includes standard, S, and Pro S models"
+2024,Volvo,C40/XC40 Recharge,4700,0.32,SUV,Electric,5,,,106-107,,,,,,293-297,11,149,3,28,310,77,,,e-motor,185 kW,,,,RWD,
+2024,Volvo,C40/XC40 Recharge Twin,4800,0.32,SUV,Electric,5,,,98-99,,,,,,254-257,11,149,3,28,310,77,,,e-motor,110 and 190 kW,,,,AWD,
+2023,Audi,e-tron GT/RS e-tron GT,5174,0.24,Sedan/Wagon,Electric,5,,,81-82,,,,,,232-238,9.6,270,3,23,292,95,,,e-motor,TBD,,,,AWD,
+2023,Audi,e-tron quattro/S,5886,0.28,SUV,Electric,5,,,63-79,,,,,,181-226,9.6,150,3,22,278,95,,,e-motor,138 kW,,,,AWD,"Includes models with 20"",  21"", and 22"" wheels"
+2023,Audi,e-tron Sportback/S Sportback,5886,0.26,SUV,Electric,5,,,65-78,,,,,,185-225,9.6,150,3,22,274,95,,,e-motor,138 kW,,,,AWD,"Includes models with 20"",  21"", and 22"" wheels"
+2023,Audi,Q4 e-tron,4630,0.28,SUV,Electric,5,112,94,103,,,,,,265,11,125,3,31,282,82,,,e-motor,TBD,,,,RWD,
+2023,Audi,Q4 e-tron quattro,4900,0.28,SUV,Electric,5,97,87,93,,,,,,236,11,125,3,31,282,95,,,e-motor,TBD,,,,AWD,
+2023,Audi,Q4 e-tron Sportback,4630,0.28,SUV,Electric,5,100,89,95,,,,,,242,11,125,3,31,282,82,,,e-motor,TBD,,,,AWD,
+2023,BMW,i4 eDrive35/40 Gran Coupe,4680,0.24,Sedan/Wagon,Electric,,,,99-113,,,,,,235-301,11,195,4,33,463,84,,,e-motor,250 kW,,,,RWD,"Includes eDrive35 and eDrive40 models with 18"" and 19"" wheels"
+2023,BMW,i4 M50 Gran Coupe,5018,0.24,Sedan/Wagon,Electric,5,,,80-96,,,,,,227-271,11,196,4,33,463,83,,,e-motor,TBD,,,,AWD,
+2023,BMW,i7 xDrive60 Sedan,5917,0.24,Sedan/Wagon,Electric,5,,,83-89,,,,,,296-318,,,,,,105,,,e-motor,TBD,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2023,BMW,iX M60,5700,0.25,SUV,Electric,5,,,77-78,,,,,,274-288,11,195,3,28,393,111,,,e-motor,190 and 360 kW electric motors,,,,AWD,
+2023,BMW,iX xDrive50,5670,0.25,SUV,Electric,5,,,83-86,,,,,,305-324,11,195,3,28,393,76,,,e-motor,TBD,,,,AWD,
+2023,Cadillac,Lyric,5610,0.29,SUV,Electric,5,97,82,89,,,,,,312,11.5-19.2,190,4,29,401,119,,,e-motor,255 kW electric motor,,,,RWD,
+2023,Cadillac,Lyric AWD,5790,0.29,SUV,Electric,5,96,81,89,,,,,,307,11.5-19.2,190,4,29,401,119,,,e-motor,155 and 220 kW,,,,AWD,
+2023,Chevrolet,Bolt EUV,3679,0.31,Sedan/Wagon,Electric,5,125,104,115,,,,,,247,11.5,50,4,39,136,75,,,e-motor,150 kW electric motor,,,,FWD,
+2023,Chevrolet,Bolt EV,3589,0.31,Sedan/Wagon,Electric,5,131,109,120,,,,,,259,11.5,50,4,41,142,75,,,e-motor,150 kW electric motor,,,,FWD,
+2023,Fisker Automotive,"Ocean Extreme, One",5300,0.28,SUV,Electric,,99,84,92,,,,,,360,,,,,,113,,,e-motor,207 kW,,,,Part-Time 4WD,
+2023,Ford,F150 Lightning 4WD,6500,0.35,Pickup,Electric,5,,,68,,,,,,240,11.6-19.6,150,2,24-40,249,123,,,e-motor,358 kW electric motors (x2),,,,AWD,
+2023,Ford,F150 Lightning 4WD Plat/Ext. Range,6800,0.35,Pickup,Electric,5,,,66-70,,,,,,300-320,11.6-19.6,150,2,24-40,249,165,,,e-motor,210 kW electric motors (x2),,,,AWD,Includes Platinum and Extended Range models
+2023,Ford,Mustang Mach-E AWD,4900,0.3,SUV,Electric,5,99,86,93,,,,,,224,11,115-150,3,30,331,116,,,e-motor,198 kW electric motors (x2),,,,AWD,
+2023,Ford,Mustang Mach-E AWD CAL RT 1/EXT,5000,0.3,SUV,Electric,5,,,92-98,,,,,,290-312,11,115-150,3,30,331,116,,,e-motor,258 kW electric motors (x2),,,,AWD,Includes California Route 1 and Extended models
+2023,Ford,Mustang Mach-E GT,5100,0.3,SUV,Electric,5,,,82-84,,,,,,260-270,11,115-150,3,30,331,116,,,e-motor,180  kW electric motor,,,,AWD,Includes Performance model
+2023,Ford,Mustang Mach-E RWD Extended,4900,0.3,SUV,Electric,5,105,92,99,,,,,,310,11,115-150,3,30,331,116,,,e-motor,216 kW electric motor,,,,RWD,
+2023,Ford,Mustang Mach-E RWD (incl. LFP),4700,0.3,SUV,Electric,5,,,101-103,,,,,,247-250,11,115-150,3,30,331,91,,,e-motor,198 kW electric motor,,,,RWD,
+2023,Genesis,Electrified G80,5047,0.27,Sedan/Wagon,Electric,,105,89,97,,,,,,282,,,,,,87,,,e-motor,TBD,,,,AWD,
+2023,Genesis,GV60 Advance,4800,0.29,Sedan/Wagon,Electric,,103,86,95,,,,,,248,,,,,,77,,,e-motor,74 and 160 kW electric motors,,,,AWD,
+2023,Genesis,GV60 Performance,4800,0.29,Sedan/Wagon,Electric,,97,82,90,,,,,,235,,,,,,77,,,e-motor,160 kW electric motors (X2),,,,AWD,
+2023,Hyundai,Ioniq 6 Long range AWD,4464,0.21,Sedan/Wagon,Electric,,,,103-121,,,,,,270-316,,,,,,77,,,e-motor,74 and 165 kW ,,,,AWD,"Includes models with 18"" and 20"" wheels"
+2023,Hyundai,Ioniq 6 Long range RWD,4200,0.21,Sedan/Wagon,Electric,,,,117-140,,,,,,305-361,,,,,,77,,,e-motor,168 kW,,,,RWD,"Includes models with 18"" and 20"" wheels"
+2023,Hyundai,Ioniq 6 Standard range RWD,3968,0.21,Sedan/Wagon,Electric,,151,120,135,,,,,,240,,,,,,53,,,e-motor,111 kW,,,,RWD,
+2023,Hyundai,Kona Electric,3880,0.29,SUV,Electric,5,132,106,120,,,,,,258,7.2,75,4,26,214,64,,,e-motor,TBD,,,,FWD,
+2023,Jaguar,I-PACE EV400,4784,0.29,SUV,Electric,5,,,76-85,,,,,,217-246,7,100,3,16,180,86,,,e-motor,TBD,,,,4WD,
+2023,Kia,EV6 AWD GT,4795,0.28,Sedan/Wagon,Electric,5,85,74,79,,,,,,206,11,200,4,36,527,77,,,e-motor,TBD,,,,AWD,
+2023,Kia,EV6 Long Range AWD,4502,0.28,Sedan/Wagon,Electric,5,,,96-109,,,,,,252-282,11,200,4,35,527,77,,,e-motor,TBD,,,,AWD,
+2023,Kia,EV6 Standard/Long Range RWD,4255,0.28,Sedan/Wagon,Electric,5,,,117,,,,,,232-310,11,200,4,36,527,77,,,e-motor,TBD,,,,RWD,
+2023,Kia,Niro Electric,3721,0.29,Sedan/Wagon,Electric,5,123,101,113,,,,,,253,7.2,75,4,24,199,64,,,e-motor,TBD,,,,FWD,
+2023,Lexus,"RZ 450e AWD (18""/20"" Wheels)",4564,0.29,SUV,Electric,5,,,95-107,,,,,,196-220,6.6,100-150,4,23,353,71,,,e-motor,80 kW and 150 kW electric motors,,,,AWD,"Includes models with 18"" and 20"" wheels"
+2023,Lordstown,Endurance,6450,0.3,Pickup,Electric,,49,46,48,,,,,,174,,,,,,109,,,e-motor,96 kW (x4),,,,4WD,
+2023,Lucid,Air G Touring XR AWD,5200,0.21,Sedan/Wagon,Electric,5,,,121-131,,,,,,469-516,19,300,4,69,876,120,,,e-motor,370 and 370/459 kW,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2023,Lucid,Air GT P AWD,5200,0.21,Sedan/Wagon,Electric,5,,,111,,,,,,446,19,300,4,69,876,120,,,e-motor,TBD,,,,AWD,"21"" wheels"
+2023,Lucid,Air Pure AWD,4800,0.21,Sedan/Wagon,Electric,5,,,121-140,,,,,,384-410,19,300,4,69,876,120,,,e-motor,TBD,,,,AWD,"Includes models with 19"" and 20"" wheels"
+2023,Lucid,Air Touring AWD,5000,0.21,Sedan/Wagon,Electric,5,,,121-140,,,,,,384-425,19,300,4,69,876,120,,,e-motor,TBD,,,,AWD,"Includes models with 19"", 20"", and 21"" wheels"
+2023,Mazda,MX-30,3774,0.33,Sedan/Wagon,Electric,,98,85,92,,,,,,100,,,,,,35,,,e-motor,81 kW electric motor,,,,FWD,
+2023,Mercedes-Benz,EQS 450 4MATIC,5597,0.2,Sedan/Wagon,Electric,5,101,105,103,,,,,,340,9.6,200,3,27,456,111,,,e-motor,TBD,,,,AWD,
+2023,Mercedes-Benz,EQS 450 4MATIC (SUV),5963,0.26,SUV,Electric,5,79,77,78,,,,,,285,9.6,200,3,27,456,111,,,e-motor,TBD,,,,AWD,
+2023,Mercedes-Benz,EQS 450+ (SUV),5963,0.26,SUV,Electric,5,87,83,85,,,,,,305,9.6,200,3,27,456,111,,,e-motor,TBD,,,,RWD,
+2023,Mercedes-Benz,EQS 580 4MATIC (SUV),6228,0.26,SUV,Electric,5,79,74,77,,,,,,285,9.6,200,3,27,456,111,,,e-motor,TBD,,,,AWD,
+2023,Mini,Cooper SE Hardtop 2 door,3153,0.28,Sedan/Wagon,Electric,4,119,100,110,,,,,,114,7.4,,4,24,128,32,,,e-motor,135 kW electric motor,,,,FWD,
+2023,Nissan,ARIYA ENGAGE e-4ORCE 63kWh,4608,0.29,Sedan/Wagon,Electric,5,101,89,95,,,,,,205,7.2,130,4,22,312,65,,,e-motor,160 kW electric motors (x2),,,,AWD,
+2023,Nissan,ARIYA ENGAGE FWD 63kWh,4343,0.29,Sedan/Wagon,Electric,,109,94,101,,,,,,216,,,,,,65,,,e-motor,TBD,,,,FWD,
+2023,Nissan,ARIYA ENG+/EVO+/PLAT+ e-4ORCE 87kWh,4608,0.29,Sedan/Wagon,Electric,5,,,87-92,,,,,,257,7.2,130,4,22,312,90,,,e-motor,160 kW electric motors (x2),,,,AWD,"Includes ENGAGE+, EVO+, and PLATINUM+ e-4ORCE models with 19"" or 20"" wheels"
+2023,Nissan,ARIYA FWD 87kWh,4343,0.29,Sedan/Wagon,Electric,,,,98-103,,,,,,289-304,,,,,,90,,,e-motor,TBD,,,,FWD,"Includes EVO+, EMP+, PRM, and VENTURE+ models"
+2023,Nissan,LEAF,3501,0.28,Sedan/Wagon,Electric,5,123,99,111,,,,,,149,6.6,70,4,22,189,40,,,e-motor,TBD,,,,FWD,
+2023,Nissan,LEAF SV,3501,0.28,Sedan/Wagon,Electric,5,121,98,109,,,,,,212,6.6,70,4,22,189,60,,,e-motor,TBD,,,,FWD,
+2023,Polestar,Polestar 2,4396,0.28,Sedan/Wagon,Electric,5,113,100,107,,,,,,270,11,150,3,30,328,77,,,e-motor,170 kW electric motor,,,,FWD,Single motor
+2023,Polestar,Polestar 2 Dual Motor,4680,0.28,Sedan/Wagon,Electric,5,,,96-100,,,,,,247-260,11,150,3,30,328,77,,,e-motor,150 /175 kW electric motors (X2),,,,AWD,"Includes Dual Motor, Performance Pack, and BST Edition"
+2023,Porsche,Taycan AWD,4568,0.22,Sedan/Wagon,Electric,4,,,75-83,,,,,,206-246,11,270,2,23,442,109,,,e-motor,175/190 and 270/335 kW motors,,,,AWD,"Includes GTS, 4S Performance Battery, 4S Performance Battery Plus, Turbo, and Turbo S"
+2023,Porsche,Taycan Cross Turismo,4696,0.26,Sedan/Wagon,Electric,4,,,75-80,,,,,,222-235,11,270,2,23,442,109,,,e-motor,175/190 and 335 kW motors,,,,AWD,"Includes 4, 4S, Turbo, and Turbo S models"
+2023,Porsche,Taycan GTS Sport Turismo,4949,0.26,Sedan/Wagon,Electric,4,80,80,80,,,,,,233,11,270,2,23,442,109,,,e-motor,175 and 335 kW electric motors,,,,AWD,
+2023,Porsche,Taycan Perf Battery/Battery Plus,4568,0.22,Sedan/Wagon,Electric,4,,,82--83,,,,,,208-242,11,270,2,23,442,109,,,e-motor,240 or 280 kW electric motor,,,,RWD,
+2023,Rivian ,R1S,7150,0.3,SUV,Electric,7,,,63-71,,,,,,274-321,11.5,209,2,24,349,144,,,e-motor,162 kW (x2) and 163 kW (x2),,,,AWD,Includes multiple wheel and tire options
+2023,Rivian ,R1S Dual Motor,7150,0.3,SUV,Electric,7,,,68-78,,,,,,307-352,11.5,209,2,24,349,144,,,e-motor,"208 kW, 418 kW, or 496 kW",,,,AWD,Includes Performance models and multiple wheel and tire options
+2023,Rivian ,R1T,7148,0.3,Pickup,Electric,5,,,64-73,,,,,,289-328,11.5,210,2,24,344,144,,,e-motor,162 kW (x2) and 163 kW (x2),,,,AWD,"Includes 20"", 21"", and 22"" wheel options"
+2023,Rivian ,R1T Dual Motor,7148,0.3,Pickup,Electric,5,,,76-78,,,,,,341-352,11.5,210,2,24,344,144,,,e-motor,418 kW (x2) or 496 kW (x2),,,,AWD,"Includes Performance models and 21"" and 22"" wheels"
+2023,Subaru,Solterra AWD,4365,0.28,SUV,Electric,,,,102-104,,,,,,222-228,,,,,,72,,,e-motor,TBD,,,,AWD,"Includes Standard, Limited, and Touring models"
+2023,Tesla,Model 3 AWD,4034,0.23,Sedan/Wagon,Electric,5,,,113-131,,,,,,315-358,11.5,250,4,41,712,84,,,e-motor,98/131 kW and 190/195 kW motors,,,,AWD,Includes Performance and Long Range models
+2023,Tesla,Model 3 RWD,3862,0.23,Sedan/Wagon,Electric,5,138,126,132,,,,,,272,,250,4,41,712,60.9,,,e-motor,192 kW electric motor,,,,RWD,
+2023,Tesla,Model S ,4561,0.21,Sedan/Wagon,Electric,5,124,115,120,,,,,,405,11.5,250,4,38,653,104,,,e-motor,247 kW electric motors (x2),,,,AWD,
+2023,Tesla,Model X,5185,0.24,SUV,Electric,7-May,,,91-102,,,,,,311-348,11.5,250,3,33,570,104,,,e-motor,243 and 248 kW or 231 kW (x3),,,,AWD,"Includes Plaid and models with 20"" and 22"" wheels"
+2023,Tesla,Model Y AWD,4416,0.23,SUV,Electric,7-May,,,111-123,,,,,,279-330,11.5,250,4,41,712,84,,,e-motor,91/133 kW and 179/200 kW motors,,,,AWD,Includes Performance and Long Range models
+2023,Toyota,bZ4X,4266,0.28,SUV,Electric,5,,,114-119,,,,,,242-252,6.6,150,4,23,353,71,,,e-motor,150 kW electric motor,,,,FWD,Includes standard and Limited models
+2023,Toyota,bZ4X AWD,4464,0.28,SUV,Electric,5,,,102-104,,,,,,222-228,6.6,100-150,4,23,353,72,,,e-motor,80 and 150 kW electric motors,,,,AWD,Includes standard and Limited models
+2023,VinFast,VF 8 Eco/Plus,5600,0.3,SUV,Electric,,,,80-87,,,,,,191-207,,,,,,88,,,e-motor,130/150 kW (x2),,,,AWD,Includes Plus model
+2023,Volkswagen,ID.4 AWD Pro/Pro S,4888,0.28,SUV,Electric,5,104,93,99,,,,,,255,11,125,4,34,306,81,,,e-motor,TBD,,,,AWD,
+2023,Volkswagen,ID.4 S/Pro/Pro S,4665,0.28,SUV,Electric,5,115,98,107,,,,,,209-275,11,125,4,34,306,81,,,e-motor,150 kW electric motor,,,,RWD,
+2023,Volvo,C40 Recharge Twin,4700,0.32,SUV,Electric,5,94,80,87,,,,,,226,11,149,3,28,310,77,,,e-motor,175 kW electric motors (X2),,,,AWD,
+2023,Volvo,XC40 Recharge Twin,4700,0.32,SUV,Electric,5,92,79,85,,,,,,223,11,150,3,28,303,77,,,e-motor,150 kW electric motors (X2),,,,AWD,
