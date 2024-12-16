@@ -1,6 +1,6 @@
 ### Project Title
 
-EPA range predictior for Electric Vehicles
+#### EPA range predictior for Electric Vehicles
 
 **Author**
 Usman Tariq
