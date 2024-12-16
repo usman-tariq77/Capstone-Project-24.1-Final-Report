@@ -30,10 +30,18 @@ What methods are you using to answer the question?
 
 I had originally thought of using Logistic Regression, KNN Classifierer, DecisionTree Classifier and SVM but those are all classifiers so had to pivot to using models that work with range of numbers like Linear Regression, SVR, Decision Tree Regressor, KNN Regressor. 
 
+In the second pass I also included the Ensemble technique using Random Forst, Bagging and Gradient Boosting for validation as well. Out of all the models I tried and validated using the best parameters the list of Regressors came down to Decision Tree and Random Forest. While Decision Tree was faster the Random Forest had better performance.
+The train/test split was 80/20, using onehot encoding on the categorical columns, removing all the NA data. 
+
 #### Results
 What did your research find?
 
 Based on the tested models Ensemble technique with Random Forst seems to yield the best results. Using GridSearchCV the best hyperparameters are model__max_depth: None, model__min_samples_leaf: 1, model__min_samples_split: 2, model__n_estimators: 200. Using the hyperparameters we can predict the EPA ranges of EVs with the provided features.
+
+The most important features that impact the range were:
+* Battery capacity
+* Drag coefficiency (aerodynamics)
+* Curb weight
 
 #### Next steps
 What suggestions do you have for next steps?
